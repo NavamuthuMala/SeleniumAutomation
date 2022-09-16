@@ -6,7 +6,7 @@
 5. Process payment - and process the payment for purchase
 
 
-## 2areas to automate
+## 2 Areas to automate
 1. Add to cart and view cart - add to the cart for purchase
 2. Process payment - and process the payment for purchase
 
