@@ -14,3 +14,9 @@ Reason I choose these 2 are,
 1. They are the revenue generating areas
 2. The customers should be able to purchase the items they want.
 
+## Build and run steps
+1. Click "DemoWebShop.sln" and open in Visual Studio
+2. In main menu Click Build -> Build Solution
+3. Once Build succeeded, Click View -> Test Explorer
+4. Right Click DemoWebShop from the Test Explorer and click Run
+5. The tests will run in Chrome window.
